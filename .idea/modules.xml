@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/projet-business/projet-business.iml" filepath="$PROJECT_DIR$/projet-business/projet-business.iml" />
       <module fileurl="file://$PROJECT_DIR$/projet22-batch/projet22-batch.iml" filepath="$PROJECT_DIR$/projet22-batch/projet22-batch.iml" />
       <module fileurl="file://$PROJECT_DIR$/projet22-webapp/projet22-webapp.iml" filepath="$PROJECT_DIR$/projet22-webapp/projet22-webapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/projet22-webapp/projet22webapp.iml" filepath="$PROJECT_DIR$/projet22-webapp/projet22webapp.iml" />
