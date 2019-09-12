@@ -12,6 +12,7 @@
         <module>projet22-webapp</module>
         <module>projet-business</module>
         <module>projet22-consumer</module>
+        <module>projet22-model</module>
     </modules>
     <packaging>pom</packaging>
 
