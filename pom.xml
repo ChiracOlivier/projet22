@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>projet22-batch</module>
+        <module>projet22-webapp</module>
     </modules>
     <packaging>pom</packaging>
 
